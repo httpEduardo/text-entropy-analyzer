@@ -1,0 +1,6 @@
+Customer orders increased for the beverage category during week seven.
+By week nine, demand plateaued and inventory shrank across two regions.
+Multiple smaller SKUs saw sharp drops after promotional spend ended.
+The system logged a surge in support tickets around shipping delays.
+Feedback mentioned slow dashboards but praised the new alerting rules.
+Alerts triggered earlier for new entities after the model refresh.
