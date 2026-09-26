@@ -1,4 +1,4 @@
-# Entropy Scout
+# Text Entropy Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -10,7 +10,7 @@ Entropy Scout measures Shannon entropy across text and ranks lines by entropy. I
 ## Quick start
 
 ```bash
-python entropy_scout.py --input sample.txt --mode word --top-lines 3
+python text_entropy_analyzer.py --input sample.txt --mode word --top-lines 3
 ```
 
 Use `--mode char` to measure character patterns, or add `--strip-whitespace` to ignore spaces in that mode.
